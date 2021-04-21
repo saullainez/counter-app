@@ -1,9 +1,6 @@
 # CounterApp
  Aplicacion web desarrollada en React
 
- # Funcionalidad
-
-
  # Lo que aprendí
  * Qué es un componente en React.
  * Cómo crear componentes en React.
@@ -17,9 +14,6 @@
  ------------------------------------------------------------
  # CounterApp
  Web application developed in React
-
- # Functionality
-
 
  # What I Learned
  * What is a component in React.
